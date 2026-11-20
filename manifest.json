@@ -1,0 +1,32 @@
+{
+  "id": "/mugi-kakeibo/",
+  "name": "むぎくんのお財布 - 夫婦共有・家計簿",
+  "short_name": "むぎのお財布",
+  "description": "ホーランドロップのむぎくんと、夫婦でゆるっと共有家計簿",
+  "start_url": "/mugi-kakeibo/",
+  "scope": "/mugi-kakeibo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "icons": [
+    {
+      "src": "/mugi-kakeibo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mugi-kakeibo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mugi-kakeibo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
